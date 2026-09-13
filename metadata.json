@@ -1,0 +1,6 @@
+{
+  "name": "Buy or Wait? — AI Financial Advisor",
+  "description": "AI-powered personal finance assistant. Get a 90-day cash-flow simulation before every purchase decision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
