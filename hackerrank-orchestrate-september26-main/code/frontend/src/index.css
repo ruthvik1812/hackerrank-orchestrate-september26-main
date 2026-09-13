@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-ivory: #F7F8F2;
+    --forest-green: #173F35;
+    --forest-green-hover: #1f5246;
+    --soft-lime: #DDF3A0;
+    --charcoal: #18241F;
+    --charcoal-muted: #5C6B64;
+    --panel-white: #FFFFFF;
+    --border-subtle: #E2E6D8;
+  }
+
+  body {
+    background-color: var(--bg-ivory);
+    color: var(--charcoal);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+.bg-ivory { background-color: #F7F8F2; }
+.bg-forest { background-color: #173F35; }
+.bg-forest-hover:hover { background-color: #1f5246; }
+.bg-lime { background-color: #DDF3A0; }
+.text-forest { color: #173F35; }
+.text-charcoal { color: #18241F; }
+.text-muted { color: #5C6B64; }
+.border-subtle { border-color: #E2E6D8; }
+
+.panel-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E2E6D8;
+  border-radius: 18px;
+  box-shadow: 0 4px 20px -2px rgba(23, 63, 53, 0.04);
+}
+
+.btn-primary {
+  background-color: #173F35;
+  color: #FFFFFF;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: #1f5246;
+  transform: translateY(-1px);
+}
+
+.btn-accent {
+  background-color: #DDF3A0;
+  color: #18241F;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.btn-accent:hover {
+  background-color: #d1ec86;
+  transform: translateY(-1px);
+}

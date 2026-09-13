@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000.0,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,"Pay IDR 15,656,000.00 today. This keeps the minimum balance protected."
+request_27,6670.0,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,"Pay ZAR 6,670.00 today. This keeps the minimum balance protected."
+request_28,343.36,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-15. None of the available options keeps the minimum balance protected.
+request_29,51524.0,affordable_now,full_payment,2025-11-04:51524,2025-11-04,none,"Pay ZAR 51,524.00 today. This keeps the minimum balance protected."
+request_30,775.2,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,2026-04-06,none,"Use 3 installments of USD 268.74, starting 2026-04-06."
+request_31,178236.0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. None of the available options keeps the minimum balance protected.
+request_32,13939.35,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-15. None of the available options keeps the minimum balance protected.
+request_33,49564.48,affordable_later,wait,2026-03-15:118000,2026-03-15,none,"Pay INR 118,000.00 in full on 2026-03-15. Paying earlier would take the balance below the minimum."
+request_34,129400.0,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,"Pay INR 129,400.00 today. This keeps the minimum balance protected."
+request_35,35343.06,affordable_later,wait,2026-01-15:212000,2026-01-15,none,"Pay INR 212,000.00 in full on 2026-01-15. Paying earlier would take the balance below the minimum."
+request_36,598.01,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-15. None of the available options keeps the minimum balance protected.
+request_37,2432437.46,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-15. None of the available options keeps the minimum balance protected.
+request_38,125.82,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-15. None of the available options keeps the minimum balance protected.
+request_39,138180.64,affordable_later,wait,2026-06-15:208600,2026-06-15,none,"Pay INR 208,600.00 in full on 2026-06-15. Paying earlier would take the balance below the minimum."
+request_40,484.7,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-15. None of the available options keeps the minimum balance protected.
+request_41,12391074.03,affordable_later,wait,2026-01-15:38760000,2026-01-15,none,"Pay IDR 38,760,000.00 in full on 2026-01-15. Paying earlier would take the balance below the minimum."
+request_42,52100.0,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,"Pay INR 52,100.00 today. This keeps the minimum balance protected."
+request_43,9868266.98,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. None of the available options keeps the minimum balance protected.
+request_44,26518.55,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-15. None of the available options keeps the minimum balance protected.
+request_45,5084037.04,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-15. None of the available options keeps the minimum balance protected.
+request_46,49450.0,affordable_with_plan,installments,2024-12-03:25714|2024-12-31:25714,2024-12-03,none,"Use 2 installments of INR 25,714.00, starting 2024-12-03."
+request_47,38114000.0,affordable_now,full_payment,2025-05-05:38114000,2025-05-05,none,"Pay IDR 38,114,000.00 today. This keeps the minimum balance protected."
+request_48,45700.0,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,"Pay INR 45,700.00 today. This keeps the minimum balance protected."
+request_49,11238623.92,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-22. None of the available options keeps the minimum balance protected.
+request_50,43900.0,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,"Pay INR 43,900.00 today. This keeps the minimum balance protected."
+request_51,2191000.0,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,"Pay IDR 2,191,000.00 today. This keeps the minimum balance protected."
+request_52,22071.22,affordable_later,wait,2024-06-15:28870,2024-06-15,none,"Pay INR 28,870.00 in full on 2024-06-15. Paying earlier would take the balance below the minimum."
+request_53,565.64,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-20. None of the available options keeps the minimum balance protected.
+request_54,8928.26,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-21. None of the available options keeps the minimum balance protected.
+request_55,140711.46,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-22. None of the available options keeps the minimum balance protected.
+request_56,494.18,affordable_with_plan,partial_payment,2025-02-03:494.18|2025-02-15:387.38,2025-02-15,none,Pay USD 494.18 today and the remaining USD 387.38 on 2025-02-15.
+request_57,14724.02,affordable_later,wait,2026-06-15:61446,2026-06-15,none,"Pay ZAR 61,446.00 in full on 2026-06-15. Paying earlier would take the balance below the minimum."
+request_58,16226000.0,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,"Pay IDR 16,226,000.00 today. This keeps the minimum balance protected."
+request_59,140600.0,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,"Use 3 installments of INR 48,741.33, starting 2025-05-07."
+request_60,144.67,affordable_later,wait,2026-01-15:199.89,2026-01-15,none,Pay USD 199.89 in full on 2026-01-15. Paying earlier would take the balance below the minimum.
+request_61,29062.0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-24. None of the available options keeps the minimum balance protected.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Pay USD 404.23 today. This keeps the minimum balance protected.
+request_63,51526.05,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-17. None of the available options keeps the minimum balance protected.
+request_64,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-16. None of the available options keeps the minimum balance protected.
+request_65,6560.37,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-11-25. None of the available options keeps the minimum balance protected.
+request_66,22200.0,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,"Pay INR 22,200.00 today. This keeps the minimum balance protected."
+request_67,258.96,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. None of the available options keeps the minimum balance protected.
+request_68,1142.39,not_affordable,not_recommended,none,2025-04-23,none,"Do not proceed with the USD 2,091.60 request. Full payment cannot be completed safely by 2025-04-16."
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.1,2026-01-04,none,Pay EUR 529.10 today. This keeps the minimum balance protected.
+request_70,42586.72,affordable_later,wait,2025-02-15:243900,2025-02-15,none,"Pay INR 243,900.00 in full on 2025-02-15. Paying earlier would take the balance below the minimum."
+request_71,1271460.18,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-05-28. None of the available options keeps the minimum balance protected.
+request_72,11330.0,affordable_now,full_payment,2026-07-05:11330,2026-07-05,none,"Pay ZAR 11,330.00 today. This keeps the minimum balance protected."
+request_73,71400.0,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,"Pay INR 71,400.00 today. This keeps the minimum balance protected."
+request_74,5010.0,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,"Pay ZAR 5,010.00 today. This keeps the minimum balance protected."
+request_75,28270.0,affordable_with_plan,installments,2026-04-09:9800.27|2026-05-09:9800.27|2026-06-08:9800.27,2026-04-06,none,"Use 3 installments of ZAR 9,800.27, starting 2026-04-09."
+request_76,743.86,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-30. None of the available options keeps the minimum balance protected.
+request_77,60700.0,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,"Pay INR 60,700.00 today. This keeps the minimum balance protected."
+request_78,50200.0,affordable_now,full_payment,2025-10-02:50200,2025-10-02,none,"Pay INR 50,200.00 today. This keeps the minimum balance protected."
+request_79,699.9,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-01. None of the available options keeps the minimum balance protected.
+request_80,96930.83,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-21. None of the available options keeps the minimum balance protected.
+request_81,2076.0,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,"Pay USD 2,076.00 today. This keeps the minimum balance protected."
+request_82,186.88,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-15. None of the available options keeps the minimum balance protected.
+request_83,6768.68,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-17. None of the available options keeps the minimum balance protected.
+request_84,18813.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-15. None of the available options keeps the minimum balance protected.
+request_85,865180.54,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-04-26. None of the available options keeps the minimum balance protected.
+request_86,46300.0,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,"Pay INR 46,300.00 today. This keeps the minimum balance protected."
+request_87,19107.77,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-15. None of the available options keeps the minimum balance protected.
+request_88,11959.79,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-07-15,none,"Use 3 installments of ZAR 9,045.23, starting 2024-06-14."
+request_89,8669196.47,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. None of the available options keeps the minimum balance protected.
+request_90,2560.0,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,"Pay ZAR 2,560.00 today. This keeps the minimum balance protected."
+request_91,190.02,affordable_later,wait,2024-11-15:1927.2,2024-11-15,none,"Pay EUR 1,927.20 in full on 2024-11-15. Paying earlier would take the balance below the minimum."
+request_92,32637.89,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-14. None of the available options keeps the minimum balance protected.
+request_93,1658.35,affordable_with_plan,full_payment,2026-04-07:1729.2,2026-04-15,stop:event_8691|reduce_to:event_8722:48.00,"Stop Video streaming plan and Reduce Takeaway order to 48.00, then pay USD 1,729.20 today."
+request_94,572.0,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,Pay EUR 572.00 today. This keeps the minimum balance protected.
+request_95,15285.5,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-14. None of the available options keeps the minimum balance protected.
+request_96,63501.86,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-12. None of the available options keeps the minimum balance protected.
+request_97,579.2,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-05-15,stop:event_9006|reduce_to:event_9032:577.50|reduce_to:event_9035:577.50,"Stop Audio streaming plan, Reduce Lunch with colleagues to 577.50, and Reduce Takeaway order to 577.50, then use 3 installments of ZAR 8,145.28."
+request_98,8954.48,affordable_later,wait,2025-10-15:27148,2025-10-15,none,"Pay ZAR 27,148.00 in full on 2025-10-15. Paying earlier would take the balance below the minimum."
+request_99,18062.0,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,"Pay ZAR 18,062.00 today. This keeps the minimum balance protected."
+request_100,27101.65,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,,stop:event_9267,"Stop Streaming subscription, then use 3 installments of ZAR 12,866.19."
+request_101,143500.0,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,"Pay INR 143,500.00 today. This keeps the minimum balance protected."
+request_102,1716.0,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,2026-04-05,none,"Use 3 installments of EUR 594.88, starting 2026-04-05."
+request_103,5274.44,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-10-07. None of the available options keeps the minimum balance protected.
+request_104,17204.0,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,"Pay ZAR 17,204.00 today. This keeps the minimum balance protected."
+request_105,53500.0,affordable_now,full_payment,2026-06-08:53500,2026-06-08,none,"Pay INR 53,500.00 today. This keeps the minimum balance protected."
+request_106,870.95,affordable_later,wait,2025-02-15:2207.7,2025-02-15,none,"Pay EUR 2,207.70 in full on 2025-02-15. Paying earlier would take the balance below the minimum."
+request_107,2292.08,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-04. None of the available options keeps the minimum balance protected.
+request_108,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-07-26. None of the available options keeps the minimum balance protected.
+request_109,540.08,not_affordable,not_recommended,none,2024-05-15,none,Do not make this payment by 2024-05-26. None of the available options keeps the minimum balance protected.
+request_110,22352.0,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,"Use 3 installments of ZAR 7,748.69, starting 2025-08-06."
+request_111,16625000.0,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,"Pay IDR 16,625,000.00 today. This keeps the minimum balance protected."
+request_112,271.7,affordable_now,full_payment,2024-06-05:271.7,2024-06-05,none,Pay EUR 271.70 today. This keeps the minimum balance protected.
+request_113,24867.94,not_affordable,not_recommended,none,2026-11-15,none,"Do not proceed with the INR 36,500.00 request. Full payment cannot be completed safely by 2026-10-19."
+request_114,65300.0,affordable_now,full_payment,2026-01-04:65300,2026-01-04,none,"Pay INR 65,300.00 today. This keeps the minimum balance protected."
+request_115,9769.34,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. None of the available options keeps the minimum balance protected.
+request_116,9006.78,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-16. None of the available options keeps the minimum balance protected.
+request_117,871.55,affordable_with_plan,full_payment,2026-07-05:880,2026-07-15,stop:event_10833,"Stop Family streaming plan, then pay EUR 880.00 today."
+request_118,729.11,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-08. None of the available options keeps the minimum balance protected.
+request_119,65238.18,affordable_with_plan,installments,2025-05-18:70546.67|2025-06-15:70546.67|2025-07-13:70546.67,2025-07-15,reduce_to:event_11016:2655.00|reduce_to:event_11053:2370.00|reduce_to:event_11054:2370.00,"Reduce Weekend entertainment to 2655.00, Reduce Quick-service meal to 2370.00, and Reduce Takeaway order to 2370.00, then use 3 installments of INR 70,546.67."
+request_120,7714000.0,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,"Pay IDR 7,714,000.00 today. This keeps the minimum balance protected."
+request_121,612.65,affordable_with_plan,full_payment,2024-03-03:633.6,2024-05-15,reduce_to:event_11223:19.50,"Reduce Takeaway order to 19.50, then pay USD 633.60 today."
+request_122,20558000.0,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,"Use 3 installments of IDR 7,126,773.33, starting 2025-08-05."
+request_123,4076000.0,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,"Pay IDR 4,076,000.00 today. This keeps the minimum balance protected."
+request_124,1422.65,not_affordable,not_recommended,none,2024-08-15,none,Do not make this payment by 2024-08-20. None of the available options keeps the minimum balance protected.
+request_125,6468.0,affordable_now,full_payment,2025-11-06:6468,2025-11-06,none,"Pay ZAR 6,468.00 today. This keeps the minimum balance protected."
+request_126,159600.0,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,"Pay INR 159,600.00 today. This keeps the minimum balance protected."
+request_127,7599.55,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-10-18. None of the available options keeps the minimum balance protected.
+request_128,25168.0,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,"Pay ZAR 25,168.00 today. This keeps the minimum balance protected."
+request_129,4.43,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-18. None of the available options keeps the minimum balance protected.
+request_130,140.53,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-15. None of the available options keeps the minimum balance protected.
+request_131,1170.54,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-06-23,reduce_to:event_12065:21.20,"Reduce Clothing and household items to 21.20, then use 3 installments of USD 643.14."
+request_132,375.45,affordable_with_plan,full_payment,2026-01-05:379.86,2026-01-15,reduce_to:event_12142:26.00,"Reduce Online retail purchases to 26.00, then pay USD 379.86 today."
+request_133,15770000.0,not_affordable,not_recommended,none,2024-03-07,none,Do not make this payment by 2024-03-29. None of the available options keeps the minimum balance protected.
+request_134,5919709.41,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-15. None of the available options keeps the minimum balance protected.
+request_135,271.68,not_affordable,not_recommended,none,2026-09-15,none,Do not proceed with the USD 304.80 request. Full payment cannot be completed safely by 2026-07-14.
+request_136,560.4,affordable_now,full_payment,2024-06-03:560.4,2024-06-03,none,Pay USD 560.40 today. This keeps the minimum balance protected.
+request_137,22475.04,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. None of the available options keeps the minimum balance protected.
+request_138,1014.04,affordable_with_plan,partial_payment,2026-04-07:1014.04|2026-04-15:242.9,2026-04-15,none,"Pay EUR 1,014.04 today and the remaining EUR 242.90 on 2026-04-15."
+request_139,1859.94,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-10-15,none,"Use 3 installments of USD 802.88, starting 2024-09-07."
+request_140,178.91,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-03-04. None of the available options keeps the minimum balance protected.
+request_141,26387.13,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-02-12. None of the available options keeps the minimum balance protected.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.6,2024-12-05,none,"Pay USD 1,263.60 today. This keeps the minimum balance protected."
+request_143,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-15. None of the available options keeps the minimum balance protected.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,Pay USD 233.34 today. This keeps the minimum balance protected.
+request_145,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-26. None of the available options keeps the minimum balance protected.
+request_146,14991.62,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-17. None of the available options keeps the minimum balance protected.
+request_147,446.39,affordable_with_plan,installments,2026-04-08:391.63|2026-05-08:391.63|2026-06-07:391.63,2026-06-15,stop:event_13521,"Stop Video streaming plan, then use 3 installments of EUR 391.63."
+request_148,7515.51,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-18. None of the available options keeps the minimum balance protected.
+request_149,18812.46,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2026-01-15,reduce_to:event_13703:1013.76,"Reduce Monthly shopping spend to 1013.76, then use 3 installments of ZAR 12,706.03."
+request_150,355.24,affordable_with_plan,installments,2026-01-06:171.98|2026-02-05:171.98|2026-03-07:171.98,2026-03-15,stop:event_13786,"Stop Family streaming plan, then use 3 installments of EUR 171.98."
+request_151,26999000.0,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,"Pay IDR 26,999,000.00 today. This keeps the minimum balance protected."
+request_152,11496.82,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-13. None of the available options keeps the minimum balance protected.
+request_153,244.88,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-24. None of the available options keeps the minimum balance protected.
+request_154,1625.8,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-14. None of the available options keeps the minimum balance protected.
+request_155,112500.0,affordable_now,full_payment,2025-05-06:112500,2025-05-06,none,"Pay INR 112,500.00 today. This keeps the minimum balance protected."
+request_156,4142.34,affordable_later,wait,2026-06-15:43076,2026-06-15,none,"Pay ZAR 43,076.00 in full on 2026-06-15. Paying earlier would take the balance below the minimum."
+request_157,5023428.21,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-15. None of the available options keeps the minimum balance protected.
+request_158,242600.0,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,"Use 3 installments of INR 84,101.33, starting 2025-08-07."
+request_159,13398.0,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,"Pay ZAR 13,398.00 today. This keeps the minimum balance protected."
+request_160,541.31,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-07-15,reduce_to:event_14736:28.50,"Reduce Quick-service meal to 28.50, then use 3 installments of EUR 432.05."
+request_161,2757470.41,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. None of the available options keeps the minimum balance protected.
+request_162,2053042.93,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-26. None of the available options keeps the minimum balance protected.
+request_163,7664876.08,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. None of the available options keeps the minimum balance protected.
+request_164,21739060.52,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-15. None of the available options keeps the minimum balance protected.
+request_165,80600.0,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,"Pay INR 80,600.00 today. This keeps the minimum balance protected."
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,"Use 3 installments of USD 1,007.97, starting 2024-12-03."
+request_167,43802.0,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,"Pay ZAR 43,802.00 today. This keeps the minimum balance protected."
+request_168,37601.97,not_affordable,not_recommended,none,2026-03-15,none,Do not make this payment by 2026-03-16. None of the available options keeps the minimum balance protected.
+request_169,41976.0,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,"Pay ZAR 41,976.00 today. This keeps the minimum balance protected."
+request_170,32657312.38,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-04. None of the available options keeps the minimum balance protected.
+request_171,29.54,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-10. None of the available options keeps the minimum balance protected.
+request_172,10200.0,affordable_with_plan,installments,2024-06-05:5304|2024-07-03:5304,2024-06-05,none,"Use 2 installments of ZAR 5,304.00, starting 2024-06-05."
+request_173,58850.82,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-17. None of the available options keeps the minimum balance protected.
+request_174,1146.2,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,"Use 3 installments of EUR 397.35, starting 2026-04-04."
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,"Pay EUR 2,346.30 today. This keeps the minimum balance protected."
+request_176,316.28,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-27. None of the available options keeps the minimum balance protected.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.6,2026-01-05,none,"Pay USD 1,017.60 today. This keeps the minimum balance protected."
+request_178,2938.1,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,"Use 3 installments of EUR 1,018.54, starting 2024-12-07."
+request_179,22341803.53,affordable_later,wait,2025-07-15:41648000,2025-07-15,none,"Pay IDR 41,648,000.00 in full on 2025-07-15. Paying earlier would take the balance below the minimum."
+request_180,66500.0,affordable_now,full_payment,2026-07-06:66500,2026-07-06,none,"Pay INR 66,500.00 today. This keeps the minimum balance protected."
+request_181,262.7,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-04-07. None of the available options keeps the minimum balance protected.
+request_182,65714.0,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,"Pay ZAR 65,714.00 today. This keeps the minimum balance protected."
+request_183,21694588.96,not_affordable,not_recommended,none,2026-06-15,none,Do not make this payment by 2026-06-18. None of the available options keeps the minimum balance protected.
+request_184,15799.35,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-30. None of the available options keeps the minimum balance protected.
+request_185,387.7,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. None of the available options keeps the minimum balance protected.
+request_186,12147.88,affordable_later,wait,2026-03-15:26554,2026-03-15,none,"Pay ZAR 26,554.00 in full on 2026-03-15. Paying earlier would take the balance below the minimum."
+request_187,32197.73,affordable_later,wait,2024-11-15:187500,2024-11-15,none,"Pay INR 187,500.00 in full on 2024-11-15. Paying earlier would take the balance below the minimum."
+request_188,237.41,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-03-04. None of the available options keeps the minimum balance protected.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.4,2026-07-04,none,Pay EUR 488.40 today. This keeps the minimum balance protected.
+request_190,444.04,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-15. None of the available options keeps the minimum balance protected.
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.4,2025-05-03,none,Pay EUR 664.40 today. This keeps the minimum balance protected.
+request_192,76.67,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-05-11. None of the available options keeps the minimum balance protected.
+request_193,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-28. None of the available options keeps the minimum balance protected.
+request_194,18223.92,affordable_later,wait,2025-10-23:132800,2025-10-23,none,"Pay INR 132,800.00 in full on 2025-10-23. Paying earlier would take the balance below the minimum."
+request_195,878.0,not_affordable,not_recommended,none,2026-03-15,none,"Do not proceed with the EUR 1,170.40 request. Full payment cannot be completed safely by 2026-03-11."
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,Pay EUR 762.30 today. This keeps the minimum balance protected.
+request_197,50939000.0,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-21. None of the available options keeps the minimum balance protected.
+request_198,185800.0,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,"Pay INR 185,800.00 today. This keeps the minimum balance protected."
+request_199,23674000.0,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,"Use 3 installments of IDR 8,206,986.67, starting 2024-09-07."
+request_200,21717000.0,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,"Pay IDR 21,717,000.00 today. This keeps the minimum balance protected."
+request_201,23997000.0,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,"Pay IDR 23,997,000.00 today. This keeps the minimum balance protected."
+request_202,123900.0,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,"Pay INR 123,900.00 today. This keeps the minimum balance protected."
+request_203,1442.1,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-08-05,stop:event_18662,"Stop Fitness club membership, then use 3 installments of EUR 499.93."
+request_204,531.08,not_affordable,not_recommended,none,2026-03-15,none,Do not proceed with the EUR 588.74 request. Full payment cannot be completed safely by 2026-01-31.
+request_205,10621000.0,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,"Pay IDR 10,621,000.00 today. This keeps the minimum balance protected."
+request_206,1404.7,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,"Use 3 installments of EUR 486.96, starting 2025-08-03."
+request_207,7701.05,affordable_later,wait,2026-07-15:11830,2026-07-15,none,"Pay ZAR 11,830.00 in full on 2026-07-15. Paying earlier would take the balance below the minimum."
+request_208,3348514.7,not_affordable,not_recommended,none,2024-08-15,none,"Do not proceed with the IDR 4,413,000.00 request. Full payment cannot be completed safely by 2024-07-13."
+request_209,1826.08,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-11-25. None of the available options keeps the minimum balance protected.
+request_210,702.45,affordable_with_plan,partial_payment,2026-04-06:702.45|2026-04-15:657.57,2026-04-15,none,Pay USD 702.45 today and the remaining USD 657.57 on 2026-04-15.
+request_211,311.94,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. None of the available options keeps the minimum balance protected.
+request_212,3543060.55,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-28. None of the available options keeps the minimum balance protected.
+request_213,3362.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-22. None of the available options keeps the minimum balance protected.
+request_214,45155.69,affordable_with_plan,installments,2024-12-04:36270|2025-01-01:36270,2025-02-15,stop:event_19670|reduce_to:event_19671:4220.00|reduce_to:event_19748:4395.00,"Stop Streaming subscription, Reduce Online retail purchases to 4220.00, and Reduce Coffee shop to 4395.00, then use 2 installments of INR 36,270.00."
+request_215,29986.0,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,"Use 3 installments of ZAR 10,395.15, starting 2025-05-09."
+request_216,408.16,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-15. None of the available options keeps the minimum balance protected.
+request_217,17180.69,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-21. None of the available options keeps the minimum balance protected.
+request_218,30115035.22,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-09-15,none,"Use 3 installments of IDR 21,195,893.33, starting 2025-08-07."
+request_219,1343.17,affordable_with_plan,installments,2026-04-07:580.01|2026-05-07:580.01|2026-06-06:580.01,2026-04-15,none,"Use 3 installments of EUR 580.01, starting 2026-04-07."
+request_220,159.1,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-03. None of the available options keeps the minimum balance protected.
+request_221,109800.0,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,"Pay INR 109,800.00 today. This keeps the minimum balance protected."
+request_222,34078.0,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,"Pay ZAR 34,078.00 today. This keeps the minimum balance protected."
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.7,2024-09-07,none,Pay EUR 898.70 today. This keeps the minimum balance protected.
+request_224,8368461.2,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-03-16. None of the available options keeps the minimum balance protected.
+request_225,12267504.5,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-09-15,none,"Use 3 installments of IDR 7,647,120.00, starting 2026-07-20."
+request_226,157000.0,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,"Pay INR 157,000.00 today. This keeps the minimum balance protected."
+request_227,15516.37,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-20. None of the available options keeps the minimum balance protected.
+request_228,5720751.77,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-04-30. None of the available options keeps the minimum balance protected.
+request_229,512.75,not_affordable,not_recommended,none,2024-05-15,none,Do not make this payment by 2024-05-23. None of the available options keeps the minimum balance protected.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.6,2025-08-06,none,"Pay EUR 3,537.60 today. This keeps the minimum balance protected."
+request_231,34495.34,not_affordable,not_recommended,none,2026-03-15,none,Do not make this payment by 2026-03-17. None of the available options keeps the minimum balance protected.
+request_232,692.72,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-15. None of the available options keeps the minimum balance protected.
+request_233,3867222.65,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-12-17. None of the available options keeps the minimum balance protected.
+request_234,286.76,affordable_later,wait,2026-09-15:1213.3,2026-09-15,none,"Pay EUR 1,213.30 in full on 2026-09-15. Paying earlier would take the balance below the minimum."
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.2,2024-09-06,none,Pay USD 967.20 today. This keeps the minimum balance protected.
+request_236,4481781.15,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-23. None of the available options keeps the minimum balance protected.
+request_237,23826000.0,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,"Pay IDR 23,826,000.00 today. This keeps the minimum balance protected."
+request_238,663.6,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,,stop:event_21888,"Stop Gym membership, then use 3 installments of USD 230.05."
+request_239,642.0,affordable_now,full_payment,2025-05-04:642,2025-05-04,none,Pay USD 642.00 today. This keeps the minimum balance protected.
+request_240,18578.76,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-20. None of the available options keeps the minimum balance protected.
+request_241,21052000.0,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,"Use 3 installments of IDR 7,298,026.67, starting 2024-03-17."
+request_242,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-08-25. None of the available options keeps the minimum balance protected.
+request_243,17468.0,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,"Pay ZAR 17,468.00 today. This keeps the minimum balance protected."
+request_244,47738.73,not_affordable,not_recommended,none,2024-08-15,none,"Do not proceed with the ZAR 49,918.00 request. Full payment cannot be completed safely by 2024-07-16."
+request_245,42702.73,affordable_later,wait,2026-01-15:128500,2026-01-15,none,"Pay INR 128,500.00 in full on 2026-01-15. Paying earlier would take the balance below the minimum."
+request_246,64086.0,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,"Use 3 installments of ZAR 22,216.48, starting 2026-04-03."
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.3,2024-09-05,none,"Pay EUR 1,059.30 today. This keeps the minimum balance protected."
+request_248,911.62,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-28. None of the available options keeps the minimum balance protected.
+request_249,139.06,affordable_later,wait,2026-03-15:643.2,2026-03-15,none,Pay USD 643.20 in full on 2026-03-15. Paying earlier would take the balance below the minimum.
+request_250,13887.79,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-01-18. None of the available options keeps the minimum balance protected.
+request_251,1513.6,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-06. None of the available options keeps the minimum balance protected.
+request_252,4955300.46,affordable_later,wait,2026-09-15:28082000,2026-09-15,none,"Pay IDR 28,082,000.00 in full on 2026-09-15. Paying earlier would take the balance below the minimum."
+request_253,1460.55,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-06-01. None of the available options keeps the minimum balance protected.
+request_254,853.48,affordable_later,wait,2025-10-15:3535.2,2025-10-15,none,"Pay USD 3,535.20 in full on 2025-10-15. Paying earlier would take the balance below the minimum."
+request_255,3345000.0,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,"Pay IDR 3,345,000.00 today. This keeps the minimum balance protected."
+request_256,144885.01,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-19. None of the available options keeps the minimum balance protected.
+request_257,399.03,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. None of the available options keeps the minimum balance protected.
+request_258,1113.6,affordable_now,full_payment,2026-01-07:1113.6,2026-01-07,none,"Pay USD 1,113.60 today. This keeps the minimum balance protected."
+request_259,364.08,affordable_later,wait,2024-11-15:935,2024-11-15,none,Pay EUR 935.00 in full on 2024-11-15. Paying earlier would take the balance below the minimum.
+request_260,7433877.49,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-18. None of the available options keeps the minimum balance protected.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.4,2026-07-03,none,"Pay EUR 1,830.40 today. This keeps the minimum balance protected."
+request_262,9236000.0,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,"Pay IDR 9,236,000.00 today. This keeps the minimum balance protected."
+request_263,7362.53,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-15. None of the available options keeps the minimum balance protected.
+request_264,18108.12,affordable_later,wait,2026-06-15:111300,2026-06-15,none,"Pay INR 111,300.00 in full on 2026-06-15. Paying earlier would take the balance below the minimum."
+request_265,45970.0,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,"Pay INR 45,970.00 today. This keeps the minimum balance protected."
+request_266,935.0,affordable_with_plan,installments,2025-08-03:324.13|2025-08-31:324.13|2025-09-28:324.13,2025-08-03,none,"Use 3 installments of EUR 324.13, starting 2025-08-03."
+request_267,1572.93,not_affordable,not_recommended,none,2026-03-15,none,Do not make this payment by 2026-03-17. None of the available options keeps the minimum balance protected.
+request_268,1040.54,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-08-15,none,"Use 3 installments of EUR 841.22, starting 2024-06-14."
+request_269,8127.5,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-02. None of the available options keeps the minimum balance protected.
+request_270,145.17,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-30. None of the available options keeps the minimum balance protected.
+request_271,1296.2,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. None of the available options keeps the minimum balance protected.
+request_272,6721120.51,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-02-15,none,"Use 3 installments of IDR 4,709,466.67, starting 2025-02-12."
+request_273,8131967.76,affordable_with_plan,partial_payment,2026-04-07:8131967.76|2026-04-15:7729032.24,2026-04-15,none,"Pay IDR 8,131,967.76 today and the remaining IDR 7,729,032.24 on 2026-04-15."
+request_274,2174.11,affordable_with_plan,installments,2024-12-04:940.75|2025-01-04:940.75|2025-02-04:940.75,2025-02-15,stop:event_25180|reduce_to:event_25181:51.60,"Stop Video streaming plan and Reduce Clothing and household items to 51.60, then use 3 installments of EUR 940.75."
+request_275,15884000.0,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,"Pay IDR 15,884,000.00 today. This keeps the minimum balance protected."
